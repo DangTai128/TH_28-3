@@ -1,8 +1,8 @@
 # Họ và tên: Đặng Anh Tài
 ## MSV: 22810310385
 ## Thực hành 28/3:
-## Splash Screen
-![](anh_1jpg)
+## Splash
+![](anh_1.jpg)
 ## Onboarding
 ![](anh_2.jpg)
 ## Sign In
